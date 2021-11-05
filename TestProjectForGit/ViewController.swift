@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         view.backgroundColor = .blue // поменял цвет View 
     }
 
-
+// new comment 1
+    // new comment 2
 }
 
