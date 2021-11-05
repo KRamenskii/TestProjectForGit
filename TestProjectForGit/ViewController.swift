@@ -22,5 +22,8 @@ class ViewController: UIViewController {
     // MVC - comment 1
     // MVC - comment 2
     // MVC - comment 3
+    
+    // MARK: - New comment 3
+    
 }
 
