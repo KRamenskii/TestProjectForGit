@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // priv
+        
         view.backgroundColor = .blue // поменял цвет View 
     }
 
